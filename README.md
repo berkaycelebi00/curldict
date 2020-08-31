@@ -3,6 +3,7 @@ This script can be used for sniper attacks like Burp Suite's intruder. Differenc
 
 
 You can specify location of your file using "{}"
+You must write your command using quotes (')
 
 
 Example: 
